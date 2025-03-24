@@ -23,8 +23,8 @@ Through this simulation, I enhanced my skills in:
 
 This repository includes:
 
-- `data_analysis_pivot_tables.xlsx` – Excel file showcasing data analysis using pivot tables.
-- `problem_solving_approach.pdf` – A document outlining my structured thinking process and key takeaways from the simulation.
+- `Task 2 KPMG.xlsx` – Excel file showcasing data analysis using pivot tables.
+- `Task 5.pdf` – A document outlining my structured thinking process and key takeaways from the simulation.
 - `README.md` – This file.
 
 ## Prerequisites
